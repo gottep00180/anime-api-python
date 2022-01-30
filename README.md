@@ -2,6 +2,7 @@
 module ที่ต้องการ
   - requests
   - BeautifulSoup
+  
 สามาถติดตั้งโดยการใช้คำสั่ง ( ใน cmd )
   - pip install requests
   - pip install beautifulsoup4
